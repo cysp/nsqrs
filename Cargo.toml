@@ -1,0 +1,11 @@
+[package]
+name = "nsqrs"
+version = "0.1.0"
+authors = ["Scott Talbot <s@chikachow.org>"]
+
+
+[dependencies]
+# byteorder = "0.3"
+# rustc-serialize = "0.3"
+serde = "*"
+time = "0.1"
